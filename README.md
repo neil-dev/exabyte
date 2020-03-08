@@ -1,6 +1,6 @@
-# exabyte
+# eXabyte
 
-A new Flutter project.
+eXabyte is the annual tech fest of the Department of Computer Science of St. Xavier's College(Autonomous), Kolkata. The year 2020 marked the 5th edition of this popular tech fest. 
 
 ## Getting Started
 
