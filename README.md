@@ -1,8 +1,10 @@
+<p><a href="http://exabyte.sxccal.edu/"><img src="https://github.com/neil-dev/exabyte/blob/master/assets/images/splash_icon.png" height="200" width=200"/></a></p>
+  
 # eXabyte
 
 eXabyte is the annual tech fest of the Department of Computer Science of St. Xavier's College(Autonomous), Kolkata. The year 2020 marked the 5th edition of this popular tech fest. 
 
-## Getting Started
+## Features
 
 This project is a starting point for a Flutter application.
 
