@@ -38,3 +38,6 @@ An animated schedule that gives the feel of the much loved terminal.
 Check out the results of the contest in an animated console style format.
 <p><img src="https://i.imgur.com/rbnzfjn.gif" width="200px" height="300px"/></p>
 
+Check out our [website](http://exabyte.sxccal.edu/).
+
+Check out this app on [Google Play Store](https://play.google.com/store/apps/details?id=com.sxc.exabyte).
