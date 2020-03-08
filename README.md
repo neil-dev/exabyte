@@ -1,6 +1,6 @@
 <p><a href="http://exabyte.sxccal.edu/"><img src="https://github.com/neil-dev/exabyte/blob/master/assets/images/splash_icon.png" height="200" width=200"/></a></p>
   
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)]
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)
 [![License](https://img.shields.io/github/license/neil-dev/exabyte?style=for-the-badge)](https://github.com/neil-dev/exabyte/blob/master/LICENSE)
 
 ![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)
